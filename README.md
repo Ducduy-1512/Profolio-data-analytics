@@ -7,8 +7,11 @@ Welcome to my personal data portfolio! This repository contains end-to-end data 
 Each folder in this repository represents a standalone project, featuring:
 
 📥 Data collection & cleaning
+
 🔍 Exploratory Data Analysis (EDA)
+
 📊 Visualization & reporting
+
 💡 Business insights & recommendations
 
 
@@ -19,9 +22,13 @@ Each folder in this repository represents a standalone project, featuring:
 ## 👨‍💻 About Me
 
 💼 Senior Content Operations @ VieON Corporation
+
 📍 Ho Chi Minh City, Vietnam
+
 🛠️ Skills: SQL · Python · Power BI · PostgreSQL · SQL Server · Excel
+
 💡 Focus: KPI Tracking · Operational Reporting · Dashboard Development
+
 📫 LinkedIn: [Connect with me](www.linkedin.com/in/ducduynguyen00)
 
 
