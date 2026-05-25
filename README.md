@@ -1,7 +1,9 @@
-📊 Data Portfolio – Duc Duy Nguyen
+# 📊 Data Portfolio – Duc Duy Nguyen
 Welcome to my personal data portfolio! This repository contains end-to-end data projects I've worked on in areas such as Data Analytics, Business Intelligence, and Operational Reporting.
 
-🕵️ About My Projects
+---
+
+## 🕵️ About My Projects
 Each folder in this repository represents a standalone project, featuring:
 
 📥 Data collection & cleaning
@@ -12,14 +14,9 @@ Each folder in this repository represents a standalone project, featuring:
 
 📦 Dataset note: Due to GitHub file size limits, some datasets are not uploaded. Feel free to contact me via LinkedIn if you need them.
 
+---
 
-📁 Project List
-#ProjectToolsCategory01📺 VieON Content Performance AnalysisSQL, Power BIBI / Reporting02🛒 Retail Sales & Customer Behavior AnalysisPython, SQLAnalytics03📈 KPI Dashboard – OperationsPower BI, ExcelBI / Dashboard
-
-🚧 More projects coming soon — updated regularly!
-
-
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 💼 Senior Content Operations @ VieON Corporation
 📍 Ho Chi Minh City, Vietnam
@@ -28,7 +25,7 @@ Each folder in this repository represents a standalone project, featuring:
 📫 LinkedIn: [Connect with me](www.linkedin.com/in/ducduynguyen00)
 
 
-🌱 Roadmap
+## 🌱 Roadmap
 
  Upload more analytics projects
  Add SQL practice notebooks
