@@ -34,7 +34,7 @@ Each folder in this repository represents a standalone project, featuring:
 
 ## 🌱 Roadmap
 
- Upload more analytics projects
- Add SQL practice notebooks
- Build Power BI dashboard showcase
- Write project walkthroughs and case studies
+- [ ] Upload more analytics project
+- [ ] Add SQL practice notebooks
+- [ ] Build Power BI dashboard showcase
+- [ ] Write project walkthroughs and case studies
